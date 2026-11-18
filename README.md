@@ -23,16 +23,14 @@ A console-based Bank Management System built with Python (`bank_project.py`) tha
    Navigate to the project directory:
 
 2.Navigate to the project directory:
-Bash
-cd Bank-Management-System-Project
-Run the Python script:
+   Bash
+   cd Bank-Management-System-Project
+   Run the Python script:
 
 3.Run the Python script:
-Bash
-python bank_project.py
+   Bash
+   python bank_project.py
 
 Author
 Jagadeesh Mangineni (@jagadeesh4245)
 
-
-*(Tip: Select all (`Ctrl + A`) inside your Git
